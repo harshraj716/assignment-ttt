@@ -1,4 +1,32 @@
 #assignment-ttt
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+# Live Project Link 
+
+Click here to check the hosted website - [Hosted Link](https://assignment-ttt.vercel.app/)
+
+## Library Used
+### React
+
+I opted for React due to its exceptional component-based architecture, which facilitates breaking down the project into reusable building blocks. This approach allows the creation of different components that can be easily assembled, fostering rapid development without redundant work.
+
+The reusability offered by React not only accelerates development but also enhances efficiency. Its Virtual DOM and reconciliation algorithms play a pivotal role in ensuring speedy updates. The Virtual DOM acts as a blueprint, optimizing changes, while reconciliation efficiently updates only the necessary elements. The introduction of Hooks has streamlined state management, significantly simplifying the development process.
+
+Moreover, React boasts a vibrant and supportive online community. This community serves as an invaluable resource whenever facing challenges or seeking guidance, making React not just a powerful framework but also a platform well-supported by a vast and knowledgeable community.
 
 This project is a web application built with modular components structured into `public` and `src` directories:
 
