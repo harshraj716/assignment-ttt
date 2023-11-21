@@ -32,7 +32,6 @@ The `App.js` file is the starting point for the application and performs essenti
 - **Navbar.jsx**: Contains the application's navigation bar, displaying the logo and a stories button.
 - **Head.jsx**: Renders the header section with a background image, profile picture, name, and additional details.
 - **Post.jsx**: Responsible for the layout of posts, initially displaying posts in three lines with ellipsis and expanding to the original size upon click. Renders HTML-formatted data from the `profile.js` file.
-- **Footer.jsx**: Includes a copyright statement and two links for Instagram and LinkedIn.
 
 ## Profile.js
 
