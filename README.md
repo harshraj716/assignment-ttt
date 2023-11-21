@@ -74,5 +74,13 @@ The `profile.js` file acts as a data source for the website, containing informat
 - Description: "Co-founder & CEO at Terribly Tiny Tales"
 - Instagram: [Instagram Profile](https://www.instagram.com/anujgosalia)
 
+## My project images for all screen sizes.
+
+![image](https://i.postimg.cc/g0TFXjZQ/Screenshot-2023-11-21-at-7-33-41-AM.png)
+![image](https://i.postimg.cc/W3gWN16M/Screenshot-2023-11-21-at-7-33-28-AM.png)
+![image](https://i.postimg.cc/brRmnV5r/Screenshot-2023-11-21-at-7-16-41-AM.png)
+
+## Thank you
+
 
 
